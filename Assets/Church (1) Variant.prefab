@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5431855142660450371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011100378718, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_Name
+      value: Church (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_RootOrder
+      value: 151
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.6450253
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.15000722
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -33.431187
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000018099951
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011104083950, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3bad0b72994978a4895e10af1ebe9160, type: 3}
